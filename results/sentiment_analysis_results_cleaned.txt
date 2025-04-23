@@ -1,0 +1,112 @@
+
+
+FOK!
+
+interaction_engagers
+
+N comments: 59353 (50.7455412869137%)
+Mean polarity: 0.06632038613140984
+SD polarity: 0.2601255323024619
+Mean positive polarity: 0.2726545902744833
+SD positive polarity: 0.21183282592381625
+Mean negative polarity: -0.24800474387148366
+SD negative polarity: 0.2173652396460897
+Percentage of neutral: 37.81106262530959
+Mean subjectivity: 0.4308938192792683
+SD subjectivity: 0.3446137294767198
+
+
+FOK!
+
+discussion_initiators
+
+N comments: 14209 (12.148390075409107%)
+Mean polarity: 0.0649673129231168
+SD polarity: 0.26592570318677455
+Mean positive polarity: 0.2729791804730117
+SD positive polarity: 0.21503401959824112
+Mean negative polarity: -0.25727670364966715
+SD negative polarity: 0.2252259811815298
+Percentage of neutral: 37.3073404180449
+Mean subjectivity: 0.43114779898339073
+SD subjectivity: 0.3431369405122529
+
+
+FOK!
+
+betweenness
+
+N comments: 41200 (35.22511584959218%)
+Mean polarity: 0.06482773003760758
+SD polarity: 0.2583176763318881
+Mean positive polarity: 0.26652653737381005
+SD positive polarity: 0.2088542387860891
+Mean negative polarity: -0.24583932968671332
+SD negative polarity: 0.2179189599632057
+Percentage of neutral: 36.953883495145625
+Mean subjectivity: 0.43528735570735466
+SD subjectivity: 0.3417869442034211
+
+
+FOK!
+
+closeness
+
+N comments: 34880 (29.821651476547938%)
+Mean polarity: 0.06626192148303607
+SD polarity: 0.2584589903903812
+Mean positive polarity: 0.26362636985707694
+SD positive polarity: 0.20767466746079769
+Mean negative polarity: -0.24228962049468486
+SD negative polarity: 0.21648022815216902
+Percentage of neutral: 35.5045871559633
+Mean subjectivity: 0.44270301197003337
+SD subjectivity: 0.33896692161847713
+
+
+Kindertelefoon
+
+interaction_engagers
+
+N comments: 11405 (13.003671356577657%)
+Mean polarity: 0.08543871971283153
+SD polarity: 0.26064761571251155
+Mean positive polarity: 0.25381518256287716
+SD positive polarity: 0.213018829806202
+Mean negative polarity: -0.20951405428079517
+SD negative polarity: 0.190423791154928
+Percentage of neutral: 25.427444103463394
+Mean subjectivity: 0.5027853660020494
+SD subjectivity: 0.3184096050557527
+
+
+Kindertelefoon
+
+discussion_initiators
+
+N comments: 8507 (9.699450436686202%)
+Mean polarity: 0.07734497625198856
+SD polarity: 0.26066499758783895
+Mean positive polarity: 0.25324738642020844
+SD positive polarity: 0.2135657112040901
+Mean negative polarity: -0.2151965343469731
+SD negative polarity: 0.1866892839129386
+Percentage of neutral: 26.601622193487717
+Mean subjectivity: 0.49376368105415686
+SD subjectivity: 0.32459894012540635
+
+
+Kindertelefoon
+
+betweenness
+
+N comments: 5238 (5.9722253893690285%)
+Mean polarity: 0.07298202344183342
+SD polarity: 0.2663906287377201
+Mean positive polarity: 0.2587404237879522
+SD positive polarity: 0.22084522593825637
+Mean negative polarity: -0.2163766171631812
+SD negative polarity: 0.19422509370057495
+Percentage of neutral: 27.586865215731194
+Mean subjectivity: 0.4884573049111529
+SD subjectivity: 0.32883109442984026
